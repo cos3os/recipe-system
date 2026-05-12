@@ -1,0 +1,75 @@
+{
+  "recipe_id": 231,
+  "recipe_name": "두부달걀덮밥",
+  "method": "끓이기",
+  "base_servings": 4,
+  "total_time_min": 35,
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "끓이다",
+      "target": "다시마, 가다랑어포",
+      "detail": "찬물에 다시마 넣고 끓여 건져내고, 불 끄고 가다랑어포 넣어 우려 육수 만들기",
+      "heat_level": "중",
+      "end_condition": "다시마 주변에 기포가 올라올 때 건져내기",
+      "estimated_time_min": 8,
+      "technique_note": "다시마는 끓기 직전에 건져야 점액이 안 나옴. 가다랑어포는 불 끄고 2분 우린 뒤 건지기",
+      "tools_used": ["냄비"]
+    },
+    {
+      "step_number": 2,
+      "action": "썰다",
+      "target": "두부, 가지, 표고버섯, 양파",
+      "detail": "두부·가지 깍둑 썰기, 표고버섯·양파 채 썰기, 달걀 풀기",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 5,
+      "technique_note": null,
+      "tools_used": ["도마", "칼"]
+    },
+    {
+      "step_number": 3,
+      "action": "굽다",
+      "target": "두부, 가지",
+      "detail": "물기 제거 후 후춧가루 밑간, 녹말가루 얇게 입혀 식용유 두른 팬에서 굽기",
+      "heat_level": "중",
+      "end_condition": "겉면이 노릇노릇해질 때까지",
+      "estimated_time_min": 6,
+      "technique_note": "녹말가루를 너무 두껍게 입히면 눅눅해짐. 물기를 꼭 제거해야 코팅이 잘 됨",
+      "tools_used": ["프라이팬"]
+    },
+    {
+      "step_number": 4,
+      "action": "조리다",
+      "target": "표고버섯, 양파",
+      "detail": "육수 1컵에 청주, 설탕, 간장 넣고 표고버섯, 양파 넣어 조려 덮밥 소스 만들기",
+      "heat_level": "중",
+      "end_condition": "소스가 반으로 줄어들 때까지",
+      "estimated_time_min": 5,
+      "technique_note": "간장은 한번에 다 넣지 말고 맛보며 조절",
+      "tools_used": ["냄비"]
+    },
+    {
+      "step_number": 5,
+      "action": "끓이다",
+      "target": "달걀물, 녹말물",
+      "detail": "달걀물 붓고 저으며 익힌 후 녹말물로 걸쭉하게",
+      "heat_level": "약",
+      "end_condition": "달걀이 반숙으로 익고 소스가 걸쭉해질 때까지",
+      "estimated_time_min": 3,
+      "technique_note": "약불에서 천천히 저어야 달걀이 부드럽게 익음",
+      "tools_used": ["냄비"]
+    },
+    {
+      "step_number": 6,
+      "action": "마무리",
+      "target": "전체",
+      "detail": "밥 위에 덮밥소스 얹고 구운 두부, 가지, 가다랑어포 올려 완성",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 1,
+      "technique_note": null,
+      "tools_used": ["그릇/볼"]
+    }
+  ]
+}

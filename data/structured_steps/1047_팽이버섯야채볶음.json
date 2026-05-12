@@ -1,0 +1,75 @@
+{
+  "recipe_id": 1047,
+  "recipe_name": "팽이버섯 야채볶음",
+  "method": "볶기",
+  "base_servings": 4,
+  "total_time_min": 15,
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "썰다",
+      "target": "팽이버섯",
+      "detail": "밑동 제거 후 4cm 길이로 자르기",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 1,
+      "technique_note": null,
+      "tools_used": ["도마", "칼"]
+    },
+    {
+      "step_number": 2,
+      "action": "썰다",
+      "target": "청경채",
+      "detail": "겉잎 떼어내고 반으로 갈라 4cm 길이로 자르기",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 2,
+      "technique_note": null,
+      "tools_used": ["도마", "칼"]
+    },
+    {
+      "step_number": 3,
+      "action": "데치다",
+      "target": "팽이버섯, 청경채",
+      "detail": "끓는 물에 데치기",
+      "heat_level": "강",
+      "end_condition": "숨이 살짝 죽을 때까지",
+      "estimated_time_min": 1,
+      "technique_note": "오래 데치면 물러지므로 30초~1분이면 충분",
+      "tools_used": ["냄비"]
+    },
+    {
+      "step_number": 4,
+      "action": "볶다",
+      "target": "팽이버섯, 청경채",
+      "detail": "기름 두른 팬에 데친 재료 볶기",
+      "heat_level": "강",
+      "end_condition": "기름이 고루 코팅될 때까지",
+      "estimated_time_min": 3,
+      "technique_note": "센 불에서 빠르게 볶아야 야채가 물러지지 않음",
+      "tools_used": ["프라이팬"]
+    },
+    {
+      "step_number": 5,
+      "action": "섞다",
+      "target": "전체",
+      "detail": "물 전분 넣어 농도 맞추기",
+      "heat_level": "중",
+      "end_condition": "소스가 걸쭉해질 때까지",
+      "estimated_time_min": 1,
+      "technique_note": "물 전분은 조금씩 넣으며 농도 조절. 한 번에 넣으면 덩어리짐",
+      "tools_used": ["프라이팬"]
+    },
+    {
+      "step_number": 6,
+      "action": "마무리",
+      "target": "전체",
+      "detail": "참기름 뿌려 완성",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 0.5,
+      "technique_note": null,
+      "tools_used": []
+    }
+  ]
+}

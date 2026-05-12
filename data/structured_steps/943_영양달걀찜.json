@@ -1,0 +1,75 @@
+{
+  "recipe_id": 943,
+  "recipe_name": "영양 달걀찜",
+  "method": "찌기",
+  "base_servings": 4,
+  "total_time_min": 30,
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "썰다",
+      "target": "죽순, 밤",
+      "detail": "죽순은 빗살 살려 썰기, 밤은 껍질 벗겨 4등분",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 3,
+      "technique_note": null,
+      "tools_used": ["도마", "칼"]
+    },
+    {
+      "step_number": 2,
+      "action": "썰다",
+      "target": "어묵, 표고버섯",
+      "detail": "찐 어묵 얇게 썰기, 표고버섯 미지근한 물에 불려 어슷 4등분",
+      "heat_level": "없음",
+      "end_condition": "표고버섯이 충분히 불을 때까지",
+      "estimated_time_min": 3,
+      "technique_note": "표고버섯은 미지근한 물에 불려야 식감이 좋음. 뜨거운 물 사용 시 질겨짐",
+      "tools_used": ["도마", "칼"]
+    },
+    {
+      "step_number": 3,
+      "action": "섞다",
+      "target": "달걀",
+      "detail": "달걀 풀고 달걀 부피 2.5배 멸치 육수 넣고 소금 간, 거품기로 풀어 체에 내리기",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 3,
+      "technique_note": "체에 내려야 기포가 제거되어 매끄러운 달걀찜이 됨. 육수 비율 2.5배가 부드러움의 핵심",
+      "tools_used": ["그릇/볼", "계량스푼"]
+    },
+    {
+      "step_number": 4,
+      "action": "데치다",
+      "target": "은행, 죽순, 밤, 새우",
+      "detail": "끓는 물에 은행, 죽순, 밤, 새우 순서로 데치기",
+      "heat_level": "강",
+      "end_condition": "각 재료가 살짝 익을 때까지",
+      "estimated_time_min": 4,
+      "technique_note": "순서대로 넣는 이유: 익는 시간이 다르기 때문",
+      "tools_used": ["냄비"]
+    },
+    {
+      "step_number": 5,
+      "action": "손질",
+      "target": "은행, 새우",
+      "detail": "은행 껍질 벗기기, 새우 머리와 껍질 제거",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 3,
+      "technique_note": null,
+      "tools_used": []
+    },
+    {
+      "step_number": 6,
+      "action": "찌다",
+      "target": "전체",
+      "detail": "찜 용기에 속 재료 담고 달걀물 부어 찜통에서 약 12분간 찌기",
+      "heat_level": "중",
+      "end_condition": "달걀물이 완전히 응고될 때까지",
+      "estimated_time_min": 12,
+      "technique_note": "뚜껑을 살짝 열어두면 표면이 매끄럽게 익음. 강불이면 기포가 생겨 식감이 거칠어짐",
+      "tools_used": ["찜기"]
+    }
+  ]
+}

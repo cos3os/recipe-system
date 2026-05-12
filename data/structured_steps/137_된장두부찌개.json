@@ -1,0 +1,64 @@
+{
+  "recipe_id": 137,
+  "recipe_name": "된장 두부찌개",
+  "method": "끓이기",
+  "base_servings": 4,
+  "total_time_min": 25,
+  "steps": [
+    {
+      "step_number": 1,
+      "action": "갈다",
+      "target": "두부",
+      "detail": "쌀뜨물에 두부를 넣고 갈기",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 2,
+      "technique_note": "쌀뜨물이 없으면 물로 대체 가능하나 국물 깊이가 줄어듦",
+      "tools_used": ["믹서기"]
+    },
+    {
+      "step_number": 2,
+      "action": "썰다",
+      "target": "돼지고기, 김치",
+      "detail": "돼지고기 썰기, 김치 3×3cm 썰기, 양념 제거",
+      "heat_level": "없음",
+      "end_condition": null,
+      "estimated_time_min": 4,
+      "technique_note": "김치를 물에 씻어 양념을 제거해야 된장 맛이 살아남",
+      "tools_used": ["도마", "칼"]
+    },
+    {
+      "step_number": 3,
+      "action": "볶다",
+      "target": "돼지고기, 김치",
+      "detail": "냄비에 돼지고기와 김치를 함께 볶기",
+      "heat_level": "중",
+      "end_condition": "돼지고기 겉면이 익을 때까지",
+      "estimated_time_min": 4,
+      "technique_note": "고기 기름이 나오면서 김치와 함께 볶아야 맛이 깊어짐",
+      "tools_used": ["냄비"]
+    },
+    {
+      "step_number": 4,
+      "action": "끓이다",
+      "target": "전체",
+      "detail": "된장, 갈은 두부, 고춧가루, 청양고추, 홍고추 넣고 끓이기",
+      "heat_level": "중",
+      "end_condition": "끓어오른 뒤 5분 이상",
+      "estimated_time_min": 12,
+      "technique_note": "된장은 체에 걸러 넣어야 국물이 깔끔함",
+      "tools_used": ["냄비"]
+    },
+    {
+      "step_number": 5,
+      "action": "마무리",
+      "target": "대파",
+      "detail": "대파 넣고 한소끔 끓여 완성",
+      "heat_level": "약",
+      "end_condition": null,
+      "estimated_time_min": 1,
+      "technique_note": "대파는 마지막에 넣어야 향이 날아가지 않음",
+      "tools_used": ["냄비"]
+    }
+  ]
+}
